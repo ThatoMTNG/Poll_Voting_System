@@ -1,0 +1,6 @@
+﻿Follow these steps to create a new database:
+1. Navigate to http://localhost/phpmyadmin/ in your browser.
+2. Click the SQL tab at the top and execute poll.sql
+3. Click Go and the database should be created with two tables.
+4. Import the SQL file from the directory and click Go.
+
