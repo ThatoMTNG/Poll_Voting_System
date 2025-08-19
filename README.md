@@ -2,5 +2,5 @@ The purpose of this program is to demonstrate the functionality of front-end, ba
 The program is a poll & vote system, desigend for small use cases, where limited functionalities are user-end and full features are admin-end.
 Front-end: HTML, CSS // Back-end: PHP // Database: MySQL
 
-📄# Documentation
+# 📄 Documentation
 https://drive.google.com/file/d/1CIhaxIDNqYURDm58sq3yudaSkxDue1vD/view?usp=sharing
