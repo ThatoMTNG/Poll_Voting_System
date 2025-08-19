@@ -1,6 +1,12 @@
-The purpose of this program is to demonstrate the functionality of front-end, back-end and database development.
-The program is a poll & vote system, desigend for small use cases, where limited functionalities are user-end and full features are admin-end.
-Front-end: HTML, CSS // Back-end: PHP // Database: MySQL
+# 👤 Poll & Voting System
+A rresponsive polling web portal with secure login and dynamic vote tracking.
+Easy to use and applicable to small use cases.
+
+# 🛠️ Tech Stack
+PHP - Back-end Development
+MySQL - Database Management
+HTML - Web Development
+Bootstrap - UI and Responsive UX 
 
 # 📄 Documentation
 https://drive.google.com/file/d/1CIhaxIDNqYURDm58sq3yudaSkxDue1vD/view?usp=sharing
